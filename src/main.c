@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "src/termcolor.h"
+#include "termcolor.h"
 
 int main() {
 	cprint("Passed", FG_GREEN);
