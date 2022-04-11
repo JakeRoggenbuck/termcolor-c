@@ -10,3 +10,5 @@ int main() {
 	return 0;
 }
 ```
+
+I made this just in case I start writing a bunch of CLI stuff in C in the next few months before college, and during college as well.
