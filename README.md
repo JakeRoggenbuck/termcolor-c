@@ -5,8 +5,8 @@
 #include "termcolor.h"
 
 int main() {
-	cprint("Passed", FG_GREEN);
-	cprint("Failed", FG_RED);
+	cprint("Passed\n", FG_GREEN);
+	cprint("Failed\n", FG_RED);
 	return 0;
 }
 ```
