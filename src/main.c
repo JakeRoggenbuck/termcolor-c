@@ -10,5 +10,7 @@ int main() {
     color(msg, new, FG_BLUE);
     printf("%s\n", new);
 
+	rprint("Hey there\n");
+
     return 0;
 }
