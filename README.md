@@ -23,3 +23,6 @@ int main() {
 
 ## Why
 I made this just in case I start writing a bunch of CLI stuff in C in the next few months before college, and during college as well.
+So far, here are my favorites:
+- [diri-c](https://github.com/jakeroggenbuck/diri-c)
+- [cosmic-ray-detector](https://github.com/JakeRoggenbuck/cosmic-ray-detector)
