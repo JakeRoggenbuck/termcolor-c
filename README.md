@@ -1,5 +1,7 @@
 # termcolor-c
+Simple color printing in C
 
+# Example
 ```c
 #include "termcolor.h"
 #include <stdio.h>
