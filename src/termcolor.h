@@ -23,6 +23,7 @@ enum BGCOlor {
     BG_LIGHTGRAY = 47,
 };
 
-char *cprint(char *text, int color);
+void cprint(char *text, int color);
+void color(char *text, char *out, int color);
 
 #endif // TERMCOLOR_H
