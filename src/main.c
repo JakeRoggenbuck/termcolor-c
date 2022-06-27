@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 int main() {
-    cprint("Passed", FG_GREEN);
-    cprint("Failed", FG_RED);
+    cprint("Passed\n", FG_GREEN);
+    cprint("Failed\n", FG_RED);
 
     char *msg = "Hello!!";
     char *new;
