@@ -21,5 +21,5 @@ int main() {
 
 ![image](https://user-images.githubusercontent.com/35516367/175891993-edce1459-de1a-4232-814c-c4c4cc095729.png)
 
-
+## Why
 I made this just in case I start writing a bunch of CLI stuff in C in the next few months before college, and during college as well.
