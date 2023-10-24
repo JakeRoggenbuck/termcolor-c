@@ -26,5 +26,6 @@ enum BGCOlor {
 void cprint(char *text, int color);
 void cprintln(char *text, int color);
 void color(char *text, char *out, int color);
+void rprint(char *text);
 
 #endif // TERMCOLOR_H
